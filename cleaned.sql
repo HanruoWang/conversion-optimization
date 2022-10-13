@@ -1,1 +1,0 @@
-SELECT * FROM `campaign optimization`.campaign_cleaned;
